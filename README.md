@@ -13,4 +13,4 @@ A basic vulnerability scanner written in Python that checks web applications for
 - `requests` library
 - `beautifulsoup4` library
 
-Install the required libraries using:
+Install the required libraries
